@@ -1,5 +1,5 @@
 # Doom-Launcher
-A simple GUI written in batch for Chocolate Doom
+A simple GUI Launch Menu written in batch for Chocolate Doom
 
 # Problem Solved
 If you launch Chocolate Doom it will default to Doom2. This becomes a bit of an annoying problem after awhile. The work around to this is to use command line to launch the games. I choose to make it much simpler and made a small, spartan-ish menu to launch the game of your choice with two luxury feature of being able to warp to a given mission and episode in Doom and DoomII and to check out John Romero's version of E1M8. 
