@@ -1,4 +1,4 @@
-# Doom-Launcher
+# Chocolate-Doom-Launcher
 A simple GUI Launch Menu written in batch for Chocolate Doom
 
 # Problem Solved
